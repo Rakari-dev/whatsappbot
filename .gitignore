@@ -71,4 +71,8 @@ instance/
 
 # Backup files
 *.bak
-*.backup 
+*.backup
+
+# ngrok
+ngrok.exe
+ngrok 
